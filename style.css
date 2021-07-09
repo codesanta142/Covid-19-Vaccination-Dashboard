@@ -127,3 +127,44 @@ footer{
     text-decoration: none;
     color: white;
 }
+.sath{
+    background-color: #1b203d;
+    color: blanchedalmond;
+  
+}
+.container.midcont {
+    padding-bottom: 20vh;
+  }
+  
+  .heading {
+  }
+  
+  .heading {
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    
+  
+  }
+  
+  .heading:hover {
+    font-stretch: semi-expanded;
+    font-variant-caps: petite-caps;
+    transform-style: preserve-3d;
+  }
+
+  
+
+  
+ 
+  
+  .shadow {
+    box-shadow: 0 .5rem 1rem blanchedalmond!important;
+  }
+  .mainy{
+      font-size: 2rem;
+  }
+  
+  
+
+  
