@@ -164,6 +164,9 @@ footer{
   .mainy{
       font-size: 2rem;
   }
+.fronty{
+      z-index:99999;
+  }
   
   
 
